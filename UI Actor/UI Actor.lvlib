@@ -5,7 +5,11 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="Add credit Msg.lvclass" Type="LVClass" URL="../../UI Actor Messages/Add credit Msg/Add credit Msg.lvclass"/>
+		<Item Name="Comparar precios Coca Msg.lvclass" Type="LVClass" URL="../../UI Actor Messages/Comparar precios Coca Msg/Comparar precios Coca Msg.lvclass"/>
+		<Item Name="Comparar precios Msg.lvclass" Type="LVClass" URL="../../UI Actor Messages/Comparar precios Msg/Comparar precios Msg.lvclass"/>
 		<Item Name="Init Msg.lvclass" Type="LVClass" URL="../../UI Actor Messages/Init Msg/Init Msg.lvclass"/>
+		<Item Name="Tabla Msg.lvclass" Type="LVClass" URL="../../UI Actor Messages/Tabla Msg/Tabla Msg.lvclass"/>
+		<Item Name="Tabla num Msg.lvclass" Type="LVClass" URL="../../UI Actor Messages/Tabla num Msg/Tabla num Msg.lvclass"/>
 	</Item>
 	<Item Name="UI Actor.lvclass" Type="LVClass" URL="../UI Actor.lvclass"/>
 </Library>

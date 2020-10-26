@@ -4,6 +4,7 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="Coins Msg.lvclass" Type="LVClass" URL="../../Monedas USD Messages/Coins Msg/Coins Msg.lvclass"/>
 		<Item Name="Init Msg.lvclass" Type="LVClass" URL="../../Monedas USD Messages/Init Msg/Init Msg.lvclass"/>
 	</Item>
 	<Item Name="Monedas USD.lvclass" Type="LVClass" URL="../Monedas USD.lvclass"/>
